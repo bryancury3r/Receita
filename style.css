@@ -1,0 +1,108 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+  color: black;
+  background: url(./images/mousse.jpg) no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: rgb(89, 172, 33);
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.content {
+  margin: auto;
+  background: transparent;
+  border: 2px solid white;
+  box-shadow: 10px 10px 5px grey;
+  width: 400px;
+  height: 585px;
+}
+
+.content h2 {
+  color: rgb(89, 172, 33);
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 32px;
+  font-weight: bold;
+  margin-top: 16px;
+
+}
+
+.content ul {
+  padding: 30px;
+}
+
+.content ul li {
+  margin-bottom: 10px;
+  color: black;
+  
+}
+
+.content ul li span {
+  
+  color:darkorange;
+}
+
+.content ol {
+  padding: 30px;
+  margin-bottom: 20px;
+}
+
+.info {
+  border: 1px solid white;
+  background: grey;
+
+  margin: 18px 10px 0 10px;
+}
+
+.info h2 {
+  color: rgb(89, 172, 33);
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+  margin-top: 16px;
+}
+
+.info p {
+  padding: 10px;
+  font-size: 22px;
+  color: white;
+}
+
+.info p span,
+.info p strong {
+  color: black;
+  font-weight: none;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  text-align: center;
+  background: rgb(89, 172, 33);
+  color: #fff;
+  font-weight: none;
+  font-size: 22px;
+  
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.footer img {
+  margin-right: 10px;
+  width: 30px;
+}
