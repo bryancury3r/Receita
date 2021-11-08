@@ -10,9 +10,8 @@ Desafio concluido da plataforma Discover
 
 
 ## Layout web
-![Web 1](https://github.com/bryancury3r/garotatran-ada/blob/main/image/bunner.png)
+![Web 1](https://github.com/bryancury3r/Receita/blob/main/images/Screenshot%20from%202021-11-08%2019-08-53.png)
 
-![Web 2](https://github.com/bryancury3r/garotatran-ada/blob/main/image/Screenshot%20from%202021-07-05%2023-18-09.png)
 
 ## Front end
 - HTML / CSS
